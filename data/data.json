@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "Math homework",
+      "details": "3 exercices algebre\n5 exercices analyse\n6 exercice math pour l'ing\n\n\n",
+      "category": "Study",
+      "id": 1
+    },
+    {
+      "title": "web apps",
+      "details": "develop a new feature for the web app",
+      "category": "To Do's",
+      "id": 2
+    },
+    {
+      "title": "other stuff",
+      "details": "cleaning the house\nlisten to music\ndoing sports\nhanging out with friends",
+      "category": "Other",
+      "id": 3
+    }
+  ]
+}
